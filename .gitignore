@@ -1,4 +1,3 @@
-.gitignore
-reviews.zip
-ruff.toml
-Tech Debts.txt
+/reviews.zip
+/ruff.toml
+/Tech Debts.txt
